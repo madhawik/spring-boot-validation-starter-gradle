@@ -1,8 +1,8 @@
-package com.iky.dto;
+package com.mk.dto;
 
 
-import com.iky.controller.validation.ValidEnum;
-import com.iky.enumeration.ReservationType;
+import com.mk.controller.validation.ValidEnum;
+import com.mk.enumeration.ReservationType;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import lombok.Getter;

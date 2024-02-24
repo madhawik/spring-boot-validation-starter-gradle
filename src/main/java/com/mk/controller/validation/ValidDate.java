@@ -1,6 +1,6 @@
-package com.iky.controller.validation;
+package com.mk.controller.validation;
 
-import static com.iky.constant.CommonConstant.DEFAULT_DATE_FORMAT;
+import static com.mk.constant.CommonConstant.DEFAULT_DATE_FORMAT;
 
 import jakarta.validation.Constraint;
 import jakarta.validation.Payload;

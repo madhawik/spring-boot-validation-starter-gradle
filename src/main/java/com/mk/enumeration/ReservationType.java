@@ -1,4 +1,4 @@
-package com.iky.enumeration;
+package com.mk.enumeration;
 
 public enum ReservationType {
   FLIGHT,

@@ -1,4 +1,4 @@
-package com.iky.config;
+package com.mk.config;
 
 import static org.springframework.security.config.Customizer.withDefaults;
 

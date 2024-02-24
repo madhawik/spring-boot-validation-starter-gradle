@@ -1,10 +1,10 @@
-package com.iky.dto;
+package com.mk.dto;
 
-import static com.iky.constant.CommonConstant.DEFAULT_DATE_FORMAT;
+import static com.mk.constant.CommonConstant.DEFAULT_DATE_FORMAT;
 
-import com.iky.controller.validation.ValidDate;
-import com.iky.controller.validation.ValidEnum;
-import com.iky.enumeration.ReservationType;
+import com.mk.controller.validation.ValidDate;
+import com.mk.controller.validation.ValidEnum;
+import com.mk.enumeration.ReservationType;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;
 import lombok.Getter;

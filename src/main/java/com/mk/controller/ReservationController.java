@@ -1,9 +1,9 @@
-package com.iky.controller;
+package com.mk.controller;
 
-import static com.iky.constant.ApiConstant.RESERVATION_API_V1_PREFIX;
+import static com.mk.constant.ApiConstant.RESERVATION_API_V1_PREFIX;
 
-import com.iky.dto.ReservationDTO;
-import com.iky.dto.ReservationFilterParameters;
+import com.mk.dto.ReservationDTO;
+import com.mk.dto.ReservationFilterParameters;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.iky.exception;
+package com.mk.exception;
 
 import java.time.LocalDateTime;
 import org.springframework.http.HttpStatusCode;
